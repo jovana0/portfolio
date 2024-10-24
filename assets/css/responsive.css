@@ -1,0 +1,848 @@
+@media screen and (max-width:1025px){
+   header #tekst{
+        width: 50%;
+        top:60%;
+        z-index: 1;
+    }
+    header #coverimg{
+      margin-left: 600px;
+      margin-top: -520px;
+    }
+    header #coverimg img{
+      width: 400px;
+    }
+   #aboutme{
+      margin-left:75px;
+   }
+   #aboutme #me{
+      width: 39%;
+   }
+   #aboutme #me p{
+      font-size: 18px;
+   }
+   #aboutme #edu p{
+      padding-bottom: 5px;
+      font-size: 18px;
+   }
+   #aboutme #lang{
+      width:20%;
+   }
+   #aboutme #lang p{
+      font-size: 18px;
+   }
+   #aboutme #meimg img{
+      width: 170px;
+      box-shadow: 3px -3px;
+   }
+   #skills{
+      margin-left: 132px;
+   }
+   #skills h3{
+      margin-left: 300px;
+   }
+   #skills .skill{
+      width: 25%;
+      margin-top: 20px;
+      margin-left: 20px;
+   }
+   #services h3{
+      margin-left: 300px;
+   }
+   #services .service{
+      margin-left: 15px;
+   }
+   #services .service h4{
+      font-size: 20px;
+   }
+   #projects h3{
+      margin-left: 25px;
+      margin-top: 10px;
+   }
+   #projects p{
+      margin-left: 0px;
+      margin-right: 20px;
+   }
+   #projects #pro{
+      width: 75%;
+      margin-left:250px;
+   }
+   #projects #pro #pet{
+      width: 300px;
+      background-position: center;
+   }
+   #projects #pro #port{
+      width: 300px;
+      margin-right: 100px;
+      background-position: center;
+   }
+   #projects #pro #som{
+      width: 300px;
+      background-position: center;
+   }
+   #projects #pro #new{
+      width: 300px;
+      margin-right: 100px;
+      background-position: center;
+   }
+   #projects #pro .project{
+      margin-right: 0px;
+   }
+   #projects #pro .project p{
+      margin-left: 30px;
+   }
+   #projects #pro #new p{
+      margin-left: 30px;
+   }
+   #contact{
+      margin-left: 75px;
+      top: 2310px;
+   }
+   #contact h3{
+      margin-left: 200px;
+   }
+   footer #social .soci i{
+      margin: 15px 31px;
+   }
+}
+@media screen and (max-width:901px){
+   header #tekst{
+      font-size: 25px;
+  }
+  header #coverimg{
+   margin-left: 490px;
+  }
+   nav ul li a{
+      font-size: 18px;
+   }
+   #aboutme{
+      margin-left: 55px;
+      width: 87%;
+   }
+   #aboutme #me{
+      width: 43%;
+   }
+   #aboutme #me h3{
+      font-size: 25px;
+      padding: 5px;
+   }
+   #aboutme #edu h4{
+      font-size: 20px;
+      padding: 10px;
+   }
+   #aboutme #lang h4{
+      font-size: 20px;
+      padding: 10px;
+   }
+   #services{
+      margin-top: 300px;
+      width: 90%;
+   }
+   #services h3{
+      margin-left: 240px;
+   }
+   #services .service i{
+      height: 80px;
+   }
+   #skills{
+      margin-left: 120px;
+   }
+   #skills h3{
+      margin-left: 250px;
+   }
+   #projects h3{
+      margin-left: 340px;
+   }
+   #projects p{
+      width: 80%;
+      margin-left: 80px;
+   }
+   #projects #pro{
+      position: relative;
+      width: 90%;
+      margin-left: 90px;
+   }
+   #contact{
+      margin-left: 55px;
+      width: 87%;
+      margin-top: 100px;
+   }
+   #contact h3{
+      margin-left: 180px;
+   }
+   #contact #info{
+      width: 55%;
+   }
+   #contact #info{
+      margin-top: 0px;
+   }
+   #contact #info{
+      margin-top: 50px;
+   }
+   #contact #info .inf:first-child{
+      margin-top: 40px;
+   }
+   #contact #info .inf .icon i{
+     font-size: 26px;
+   }
+   #contact #info .teksticon{
+      margin-left: 10px;
+   }
+   #contact #info .teksticon p{
+      font-size: 20px;
+   }
+   #contact form{
+      margin-right: 11px;
+   }
+}
+@media screen and (max-width:874px){
+   header #coverimg{
+      margin-left: 472px;
+   }
+   #aboutme{
+      margin-left: 50px;
+      width: 89%;
+   }
+   #aboutme #me p{
+      font-size: 17px;
+   }
+   #aboutme #edu h4{
+      padding: 5px;
+   }
+   #aboutme #edu p{
+      font-size: 17px;
+   }
+   #aboutme #lang p{
+      font-size: 17px;
+   }
+   #aboutme #lang h4{
+      padding: 5px;
+   }
+   #projects #pro{
+      margin-left: 86px;
+   }
+   #contact{
+      margin-left: 50px;
+      width: 89%;
+   }
+   #contact #info{
+      height: 350px;
+   }
+   #contact form{
+      margin-right: 5px;
+   }
+   #contact form input{
+      font-size: 18px;
+   }
+   #contact form textarea{
+      font-size: 18px;
+   }
+   footer #social{
+      width: 85%;
+   }
+
+}
+@media screen and (max-width:769px){
+    header #tekst{
+         width: 70%;
+         top:65%;
+     }
+     header #cover #logo a h1{
+        font-size: 40px;
+     }
+     header #cover nav ul li a{
+      font-size: 16px;
+     }
+     header #coverimg{
+      margin-top: -734px;
+      margin-left: 190px;
+     }
+     #aboutme{
+      flex-direction: row;
+      flex-wrap: wrap;
+      top: 600px;
+   }
+   #aboutme #me{
+      width: 55%;
+   }
+   #aboutme #me h3{
+      padding-left: 35px;
+   }
+   #aboutme #me p{
+      padding-left: 40px;
+      border-right: 0px;
+   }
+   #aboutme #edu{
+      width: 50%;
+   }
+   #aboutme #edu h4{
+      padding-top: 20px;
+      padding-left: 25px;
+      margin-top: 0px;
+   }
+   #aboutme #edu p{
+      padding-left: 35px;
+   }
+   #aboutme #lang{
+      width: 50%;
+   }
+   #aboutme #lang h4{
+      padding-top: 20px;
+      padding-left: 40px;
+      margin-top: 0px;
+   }
+   #aboutme #lang p{
+      padding-left: 50px;
+   }
+   #aboutme #meimg{
+      width: 45%;
+   }
+   #aboutme #meimg img{
+      margin-left: 60px;
+   }
+   #skills{
+      margin-left: 80px;
+   }
+   #skills h3{
+      font-size: 30px;
+      margin-left: 250px;
+   }
+   #skills .skill .skilldes i{
+      font-size: 25px;
+   }
+   #skills .skill .skilldes h4{
+      font-size: 18px;
+   }
+   #services{
+      margin-top: 370px;
+      width:100%;
+   }
+   #services h3{
+      font-size: 30px;
+      margin-left: 310px;
+   }
+   #services .service{
+      width: 31%;
+      margin-right: 0px;
+   }
+   #services .service i{
+      font-size: 40px;
+      height: 50px;
+      padding-top: 25px;
+   }
+   #services .service h4{
+      font-size: 18px;
+   }
+   #projects{
+      margin-top: 30px;
+   }
+   #projects h3{
+      font-size: 30px;
+   }
+   #projects p{
+      font-size: 20px;
+      margin-left: 40px;
+   }
+   #projects #pro{
+      width: 100%;
+      margin-right: 0px;
+      margin-left:0px;
+      justify-content: space-evenly;
+   }
+   #projects #pro .project p{
+      font-size: 20px;
+   }
+   #projects #pro #port{
+      margin-right: 0px;
+   }
+   #projects #pro #new{
+      margin-right: 0px;
+   }
+   #contact{
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: center;
+   }
+   #contact h3{
+      margin-top: -355px;
+      margin-left: 15px;
+      font-size: 30px;
+   }
+   #contact #info{
+      display: none;
+   }
+   #contact form{
+      margin-top: 40px;
+      width: 55%;
+   }
+   #contact form input{
+      padding: 3px;
+   }
+   footer #social{
+      width: 90%;
+   }
+   footer #social .soci i{
+      font-size: 18px;
+      margin: 15px 26px;
+   }
+   footer #top{
+      display: block;
+      width: 40px;
+      height: 40px;
+   }
+   footer #right{
+      font-size: 20px;
+   }
+ }
+ @media screen and (max-width:601px){
+    header #tekst{
+         width: 85%;
+     }
+     header #coverimg{
+      margin-top:-725px;
+      margin-left: 100px;
+     }
+     header #cover #logo{
+      flex-wrap: wrap;
+     }
+     header #cover nav{
+      width: 100%;
+     }
+   header #cover nav ul li{
+      padding-left: 15px;
+      font-size: 16px; 
+   }
+    #aboutme{
+      width: 100%;
+      margin-left: 0px;
+    }
+    #aboutme #me{
+      width: 55%;
+    }
+   #aboutme #me p{
+      padding-left: 0px;
+   }
+   #aboutme #meimg{
+      width: 45%;
+   }
+   #skills{
+      width: 90%;
+   }
+   #skills h3{
+      margin-left: 200px;
+   }
+   #skills{
+      margin-left: 35px;
+   }
+   #skills .skill{
+      margin-left: 10px;
+      margin-right: 10px;
+      width: 29%;
+   }
+   #skills .skill:last-child{
+      margin-right: 10px;
+  }
+  #skills .skill .skilldes h4{
+   font-size: 16px;
+   margin-right: 0px;
+  }
+  #services{
+   width: 100%;
+  }
+  #services h3{
+   margin-left: 200px;
+}
+  #services .service{
+   margin-left: 10px;
+  }
+  #services .service p{
+   font-size: 16px;
+  }
+  #projects h3{
+   margin-left: 205px;
+  }
+  #projects p{
+   width: 90%;
+   margin-left: 25px;
+  }
+  #projects #pro .project p{
+   font-size: 18px;
+   width: 250px;
+   margin-left: 20px;
+  }
+  #projects #pro #pet{
+   width: 280px;
+  }
+  #projects #pro #port{
+   width: 280px;
+  } 
+  #projects #pro #som{
+   width: 280px;
+  }
+  #projects #pro #new{
+   width: 280px;
+  }
+  #projects #pro #new p{
+   margin-left: 20px;
+   font-size: 18px;
+  }
+  #contact{
+   width: 100%;
+   margin-left: 0px;
+  }
+  footer #social{
+   width: 95%;
+  }
+  footer #social .soci{
+   width: 15%;
+  } 
+  footer #social .soci i{
+   margin: 15px 35px;
+  } 
+ }
+ @media screen and (max-width:575px){
+   header #tekst{
+      width: 90%;
+   }
+   header #cover nav ul li{
+      padding-left: 10px;
+   }
+   #aboutme #me{
+      width: 60%;
+    }
+   #aboutme #meimg{
+      width: 40%;
+   }
+   #aboutme #meimg img{
+      margin-left: 40px;
+   }
+   #services .service h4{
+      font-size: 16px;
+   }
+ }
+ @media screen and (max-width:481px){
+    header #tekst{
+         font-size: 20px;
+     }
+     header #coverimg{
+      margin-top: -680px;
+      margin-left: 100px;
+     }
+     header #coverimg img{
+      width: 300px;
+     }
+     header #cover #logo{
+        height: 40px;
+     }
+     header #cover #logo a h1{
+        font-size: 32px;
+     }
+     header #cover #logo nav ul li{
+      padding-left: 5px;
+      margin-left: 20px;
+     }
+     header #cover nav ul li a{
+      padding-left: 0px;
+     }
+    #aboutme #me{
+      width: 65%;
+   }
+    #aboutme #meimg{
+      width: 35%;
+   }
+    #aboutme #meimg img{
+      margin-left: 0px;
+   }
+   #aboutme #me p{
+      font-size: 15px;
+      padding-left: 25px;
+   }
+   #aboutme #edu p{
+      font-size: 15px;
+   }
+   #aboutme #lang p{
+      font-size: 15px;
+   }
+   #skills{
+      width: 100%;
+      margin-left: 0px;
+   }
+   #skills h3{
+      font-size: 25px;
+   }
+   #skills .skill{
+      width: 40%;
+      margin-left: 20px;
+   }
+   #services{
+      flex-direction: column;
+      margin-left: 0px;
+   }
+   #services h3{
+      font-size: 25px;
+      margin-left: 170px;
+   }
+   #services .service{
+      width: 60%;
+      margin-left: 100px;
+      margin-top: 20px;
+   }
+   #projects h3{
+      font-size: 25px;
+      margin-left: 180px;
+   }
+   #projects p{
+      font-size: 16px;
+   }
+   #projects #pro{
+      margin: auto;
+   }
+   #projects #pro #port{
+      margin-top: 50px;
+   }
+   #contact{
+      top: 3500px;
+   }
+   #contact h3{
+      font-size: 25px;
+   }
+   #contact form{
+      width:70%;
+   }
+   #contact form input{
+      font-size: 16px;
+   }
+   #contact form textarea{
+      font-size: 16px;
+   }
+   footer{
+      top: 1085px;
+   }
+   footer #social{
+      width: 100%;
+   }
+   footer #social .soci{
+      width: 17%;
+   }
+   footer #social .soci i{
+      font-size: 16px;
+   }
+   footer #right{
+      font-size: 18px;
+   }
+}
+ @media screen and (max-width:426px){
+    header #tekst{
+         margin: 15px;
+         width: 90%;
+     }
+     header #cover #logo nav ul li{
+      padding-left: 0px;
+      margin-left:15px;
+   }
+     header #coverimg{
+      margin-left: 70px;
+     }
+     #aboutme{
+      flex-direction: column;
+      flex-wrap: wrap;
+      top: 550px;
+     }
+     #aboutme h3,h4{
+      text-align: center;
+     }
+     #aboutme p{
+      text-align: center;
+     }
+     #aboutme #me{
+      width: 100%;
+     }
+     #about #me h3{
+      margin-top: 0px;
+     }
+     #about #edu h4{
+      margin-top: 0px;
+     }
+     #about #lang h4{
+      margin-top: 0px;
+      margin-left: 0px;
+     }
+     #aboutme #meimg{
+      width: 100%;
+     }
+     #aboutme #meimg img{
+      margin-left: 25%;
+     }
+     #aboutme #edu{
+      width: 100%;
+     }
+     #aboutme #edu{
+      padding-left: 0px;
+     }
+     #aboutme #edu p{
+      border: 0px;
+      padding-left: 0px;
+     }
+     #aboutme #lang{
+      width: 100%;
+     }
+     #aboutme #lang p{
+      padding-left: 10px;
+     }
+    #skills{
+      margin-top: 80px;
+    }
+    #skills h3{
+      margin-left: 160px;
+      margin-top: -45px;
+    }
+    #skills .skill{
+      margin-left: 25px;
+    }
+    #services{
+      margin-top: 610px;
+    }
+    #services h3{
+      margin-left: 150px;
+    }
+    #services .service{
+      margin-left: 90px;
+    }
+    #projects h3{
+      margin-left: 150px;
+    }
+    #projects #pro{
+      margin-left: 0px;
+    }
+    #projects #pro .project{
+      margin-left: 15px;
+    }
+    footer #social .soci i{
+      margin: 16px 29px;
+   }
+}
+@media screen and (max-width:414px){
+    header #tekst{
+         font-size: 19px;
+         margin: 0px;
+     }
+     header #cover #logo{
+        height: 38px;
+     }
+     header #cover #logo a h1{
+        font-size: 30px;
+     }
+     #projects p{
+      width: 100%;
+      margin-left: 0px;
+     }
+}
+@media screen and (max-width:376px){
+   header #tekst{
+        font-size: 18px;
+        width:100%;
+    }
+    header #coverimg{
+      margin-left: 40px;
+    }
+    header #cover #logo{
+       height: 36px;
+    }
+    header #cover #logo a h1{
+       font-size: 28px;
+    }
+    header #cover #logo nav ul li{
+      font-size: 14px;
+      margin-left: 8px;
+    }
+     #aboutme{
+      top: 530px;
+     }
+     #skills h3{
+      margin-left:130px;
+     }
+     #services{
+      margin-top: 530px;
+     }
+     #services h3{
+      margin-left: 130px;
+      margin-top: -40px;
+     }
+     #services .service{
+      margin-left: 60px;
+      width:70%;
+    }
+    #projects #pro .project{
+      margin-left: 0px;
+    }
+    #contact h3{
+      margin-left: 0px;
+    }
+    #contact form{
+      width: 80%;
+    }
+    footer #social .soci i{
+      font-size: 14px;
+      margin: 16px 25px;
+   }
+    footer #right{
+      font-size: 16px;
+    }
+}
+@media  screen and (max-width:321px){
+   header #coverimg{
+      margin-left: 15px;
+   }
+   header #tekst{
+      font-size: 15px;
+      width:100%;
+  }
+   header #cover nav ul li a{
+      font-size: 13px;
+   }
+   #skills{
+      margin-top:50px
+   } 
+   #skills h3{
+      margin-left: 115px;
+   }    
+   #skills .skill{
+      margin-left: 10px;
+      width: 45%;
+      margin-right: 0px;
+   }
+   #skills .skill .skilldes i{
+      font-size: 20px;
+   }
+   #skills .skill .skilldes h4{
+      font-size: 15px;
+   }
+   #skills .skill .skillpart .skillout .skillin p{
+      font-size: 14px;
+   }
+   #services h3{
+      margin-left: 110px;
+   }
+   #services .service{
+      width: 80%;
+      margin-left: 35px;
+   }
+   #projects h3{
+      margin-left: 100px;
+   }
+   #projects #pro .project{
+      margin-left: 0px;
+   }
+   #contact form{
+      width: 90%;
+    }
+    footer{
+      top: 1055px;
+    }
+    footer #social .soci i{
+      font-size: 12px;
+      margin: 18px 22px;
+   }
+    footer #right{
+      font-size: 14px;}
+}
