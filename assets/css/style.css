@@ -354,6 +354,11 @@ header #coverimg img {
   flex-direction: row;
   flex-wrap: wrap;
 }
+#projects #pro a {
+  text-decoration: none;
+  color: #DCCAE9;
+  font-size: 20px;
+}
 #projects #pro #pet {
   background: url(../img/sajt.jpg);
   width: 350px;
@@ -386,7 +391,7 @@ header #coverimg img {
   margin-left: 0px;
 }
 #projects #pro p {
-  margin-top: 190px;
+  margin-top: 180px;
   margin-left: 60px;
   font-size: 20px;
   color: #DCCAE9;

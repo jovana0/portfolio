@@ -465,6 +465,9 @@
    width: 90%;
    margin-left: 25px;
   }
+  #prohects #pro .project a{
+   font-size: 18px;
+  }
   #projects #pro .project p{
    font-size: 18px;
    width: 250px;
@@ -590,6 +593,9 @@
    #projects h3{
       font-size: 25px;
       margin-left: 180px;
+   }
+   #projects a{
+      font-size: 16px;
    }
    #projects p{
       font-size: 16px;
